@@ -1,1 +1,2 @@
-welcome github test1.txt
+Changed the command inn test1.txt
+
